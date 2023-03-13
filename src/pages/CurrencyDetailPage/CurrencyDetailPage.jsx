@@ -23,7 +23,7 @@ const CurrencyDetailPage = () => {
 
 	const detailData = (currenciesList || []).filter((cur) => cur.shortName === slug);
 	const currency = detailData[0];
-	console.log(currency);
+
 
 	useEffect(() => {
 		if (!currenciesList?.length && !isLoading && !error) {
