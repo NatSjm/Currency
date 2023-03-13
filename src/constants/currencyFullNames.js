@@ -1,0 +1,22 @@
+export const CURRENCY_FULL_NAMES = {
+	AUD: 'Australský dolar',
+	BGN: 'Bulharský lev',
+	CAD: 'Kanadský dolar',
+	CHF: 'Švýcarský frank',
+	DKK: 'Dánská koruna',
+	EUR: 'Euro',
+	GBP: 'Britská libra',
+	HKD: 'Hongkongský dolar',
+	HRK: 'Chorvatská kuna',
+	HUF: 'Maďarský forint',
+	JPY: 'Japonský jen',
+	NOK: 'Norská koruna',
+	NZD: 'Novozélandský dolar',
+	PLN: 'Polský zlotý',
+	RON: 'Rumunský leu',
+	SEK: 'Švédská koruna',
+	TND: 'Tuniský dinár',
+	TRY: 'Turecká lira',
+	USD: 'Americký dolar',
+	ZAR: 'Jihoafrický rand'
+};
